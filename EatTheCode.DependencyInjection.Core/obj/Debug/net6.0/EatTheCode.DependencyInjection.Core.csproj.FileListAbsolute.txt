@@ -1,0 +1,12 @@
+D:\Projects\m\Domains\hostinger\eatthecode\Posts\.net-dependency-injection\EatTheCode.DependencyInjection\EatTheCode.DependencyInjection.Core\bin\Debug\net6.0\EatTheCode.DependencyInjection.Core.deps.json
+D:\Projects\m\Domains\hostinger\eatthecode\Posts\.net-dependency-injection\EatTheCode.DependencyInjection\EatTheCode.DependencyInjection.Core\bin\Debug\net6.0\EatTheCode.DependencyInjection.Core.dll
+D:\Projects\m\Domains\hostinger\eatthecode\Posts\.net-dependency-injection\EatTheCode.DependencyInjection\EatTheCode.DependencyInjection.Core\bin\Debug\net6.0\EatTheCode.DependencyInjection.Core.pdb
+D:\Projects\m\Domains\hostinger\eatthecode\Posts\.net-dependency-injection\EatTheCode.DependencyInjection\EatTheCode.DependencyInjection.Core\obj\Debug\net6.0\EatTheCode.DependencyInjection.Core.csproj.AssemblyReference.cache
+D:\Projects\m\Domains\hostinger\eatthecode\Posts\.net-dependency-injection\EatTheCode.DependencyInjection\EatTheCode.DependencyInjection.Core\obj\Debug\net6.0\EatTheCode.DependencyInjection.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\m\Domains\hostinger\eatthecode\Posts\.net-dependency-injection\EatTheCode.DependencyInjection\EatTheCode.DependencyInjection.Core\obj\Debug\net6.0\EatTheCode.DependencyInjection.Core.AssemblyInfoInputs.cache
+D:\Projects\m\Domains\hostinger\eatthecode\Posts\.net-dependency-injection\EatTheCode.DependencyInjection\EatTheCode.DependencyInjection.Core\obj\Debug\net6.0\EatTheCode.DependencyInjection.Core.AssemblyInfo.cs
+D:\Projects\m\Domains\hostinger\eatthecode\Posts\.net-dependency-injection\EatTheCode.DependencyInjection\EatTheCode.DependencyInjection.Core\obj\Debug\net6.0\EatTheCode.DependencyInjection.Core.csproj.CoreCompileInputs.cache
+D:\Projects\m\Domains\hostinger\eatthecode\Posts\.net-dependency-injection\EatTheCode.DependencyInjection\EatTheCode.DependencyInjection.Core\obj\Debug\net6.0\EatTheCode.DependencyInjection.Core.dll
+D:\Projects\m\Domains\hostinger\eatthecode\Posts\.net-dependency-injection\EatTheCode.DependencyInjection\EatTheCode.DependencyInjection.Core\obj\Debug\net6.0\refint\EatTheCode.DependencyInjection.Core.dll
+D:\Projects\m\Domains\hostinger\eatthecode\Posts\.net-dependency-injection\EatTheCode.DependencyInjection\EatTheCode.DependencyInjection.Core\obj\Debug\net6.0\EatTheCode.DependencyInjection.Core.pdb
+D:\Projects\m\Domains\hostinger\eatthecode\Posts\.net-dependency-injection\EatTheCode.DependencyInjection\EatTheCode.DependencyInjection.Core\obj\Debug\net6.0\ref\EatTheCode.DependencyInjection.Core.dll

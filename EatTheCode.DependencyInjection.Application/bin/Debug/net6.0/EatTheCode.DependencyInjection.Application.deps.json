@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EatTheCode.DependencyInjection.Application/1.0.0": {
+        "dependencies": {
+          "EatTheCode.DependencyInjection.Core": "1.0.0"
+        },
+        "runtime": {
+          "EatTheCode.DependencyInjection.Application.dll": {}
+        }
+      },
+      "EatTheCode.DependencyInjection.Core/1.0.0": {
+        "runtime": {
+          "EatTheCode.DependencyInjection.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EatTheCode.DependencyInjection.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EatTheCode.DependencyInjection.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

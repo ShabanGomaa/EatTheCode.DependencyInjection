@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "nuagM2Gj4jARB/HMOkjmM1BPLCHTWkD14EwfVKd5tUG6c0kJy5i7gwAZG0yXzTA6sxoAsH2viulIsr1yoec3vQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\m\\Domains\\hostinger\\eatthecode\\Posts\\.net-dependency-injection\\EatTheCode.DependencyInjection\\EatTheCode.DependencyInjection.Api\\EatTheCode.DependencyInjection.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shaban\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Shaban\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Shaban\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
+    "C:\\Users\\Shaban\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Shaban\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Shaban\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Shaban\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rqu2z45aY8UsB2irOWVjNYntTUEdPcTAy1OcSV2GP0k=",
+  "Source": "EatTheCode.DependencyInjection.Api",
+  "BasePath": "_content/EatTheCode.DependencyInjection.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
